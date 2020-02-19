@@ -1,0 +1,12 @@
+@media (max-width:1024px)
+{
+	.header-image img {width:1023px;}
+	.nav-nav {width:700px; display:flex; justify-content: flex-end;}
+	.logo img {width:100px;}
+	.box2 {max-width:512px;}
+	.boxx {max-width: 1023px}
+	.box2-title {font-size:20px; margin-top:30px;}
+	.box1-text {font-size:15px;}
+	.container{ max-width:1024px; flex-wrap: wrap;}
+
+}
